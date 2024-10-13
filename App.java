@@ -19,7 +19,7 @@ public class App
         }
     }
 
-    private static void bad2() {
+    private static void bad22() {
         try {
             // ruleid: java-jwt-none-alg
             String token = JWT.create()
