@@ -7,7 +7,7 @@ import com.auth0.jwt.exceptions.JWTCreationException;
 public class App
 {
 
-    private static void bad1() {
+    private static void bad11() {
         try {
             // ruleid: java-jwt-none-alg
             Algorithm algorithm = Algorithm.none();
